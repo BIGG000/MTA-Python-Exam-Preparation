@@ -1,4 +1,4 @@
-# MTA-Python-Exam-Preparatio
+# MTA-Python-Exam-Preparation
 <h1> (MICROSOFT) Introduction to Programming Using Python<h1>
 
 <h3>A-About Test</h3>
