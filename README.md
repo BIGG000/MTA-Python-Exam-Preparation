@@ -108,6 +108,6 @@ Following are few sources, that you can consult for practicing for the exam.<br>
 3. YouTube <a href = "https://www.youtube.com/watch?v=ZscaJ1G_s4A">[link]</a>
 
 <h3>AUTHOR</h3>
-  <a href = "https://www.gitshowcase.com/bigg000" target=" _blank> GIT ShowCase </a><br>
+  <a href = "https://www.gitshowcase.com/bigg000" target="_blank"> GIT ShowCase </a><br>
   <a href = "https://github.com/bigg000">GitHub</a><br>
   <a href = "https://www.linkedin.com/in/muhammad-danial-siddiqui-475672157/">LinkedIn</a>
