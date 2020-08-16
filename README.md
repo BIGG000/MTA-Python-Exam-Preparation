@@ -1,4 +1,6 @@
-# MTA-Python-Exam-Preparation <img src = "/Images/MTA-2020.png">
+# MTA-Python-Exam-Preparation 
+
+<img src = "/Images/MTA-2020.png">
 <h1> (MICROSOFT) Introduction to Programming Using Python<h1>
 
 <h3>A-About Test</h3>
