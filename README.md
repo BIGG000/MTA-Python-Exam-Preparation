@@ -27,7 +27,7 @@ Select the appropriate operator to achieve the intended result<br>
 <ul>
   <li>Assignment; Comparison; Logical; Arithmetic; Identity (is); Containment (in)</li>
 </ul>
-
+ 
 <h4>2-Control Flow with Decisions and Loops (25-30%)</h4><br>
 
 Construct and analyze code segments that use branching statements<br>
